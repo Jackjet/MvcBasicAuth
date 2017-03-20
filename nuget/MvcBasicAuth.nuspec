@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MvcBasicAuth</id>
+    <version>0.1.0</version>
+    <authors>Ilya Verbitskiy</authors>
+    <owners>Ilya Verbitskiy</owners>
+    <licenseUrl>https://github.com/ilich/MvcBasicAuth/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ilich/MvcBasicAuth</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>HTTP Basic Authentication with ASP.NET MVC</description>
+    <copyright>Copyright © Ilya Verbitskiy 2017</copyright>
+    <tags>basic http authentication security</tags>
+  </metadata>
+</package>
